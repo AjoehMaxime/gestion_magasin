@@ -1,0 +1,6 @@
+            3il Market
+    Facture du Wed Nov 23 22:13:57 WAT 2022
+DESIGNATION     PRIX UNITAIRE    QUANTITE     PRIX TOTAL
+Fouet           10000.0          2             20000.0
+Total                             20000.0
+                        Merci de votre visite
